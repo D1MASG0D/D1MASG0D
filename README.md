@@ -8,10 +8,10 @@
 
 ## 👨‍💻 About Me
 
-Passionate developer building awesome things.
+I'm an 18-year-old developer based in Eindhoven, and I've been hooked on technology for six years. Right now I'm going all-in on infrastructure, cloud, and cybersecurity. To make that stick, I'm studying ICT at Fontys University of Applied Sciences.
 
-- 📍 Based in **Eindhoven / Netherlads**
-- 👥 **0** followers · **0** following
+- 📍 Eindhoven, The Netherlands
+- 🎓 ICT student @ Fontys
 
 ## 📊 GitHub Stats
 
@@ -30,7 +30,3 @@ Passionate developer building awesome things.
 </p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/d1masg0d)
-
----
-
-<p align="center">Profile README generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></p>
