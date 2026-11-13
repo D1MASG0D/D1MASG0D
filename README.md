@@ -2,10 +2,6 @@
   <img src="./banner.svg" width="100%" alt="Diogo Fernandes — Infrastructure, Cloud, Cybersecurity" />
 </p>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/156516081?v=4" width="140" alt="Diogo Fernandes" />
-</p>
-
 ## 👨‍💻 About Me
 
 I'm an 18-year-old developer based in Eindhoven, and I've been hooked on technology for six years. Right now I'm going all-in on infrastructure, cloud, and cybersecurity. To make that stick, I'm studying ICT at Fontys University of Applied Sciences.
