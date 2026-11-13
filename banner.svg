@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="bt bd">
+  <title id="bt">Diogo Fernandes — Infrastructure, Cloud, Cybersecurity</title>
+  <desc id="bd">A terminal window on black: a prompt and the name Diogo Fernandes, a focus line, a cyan ASCII monogram and a status bar with study and location.</desc>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#05F2F2"/><stop offset="1" stop-color="#04BFBF"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0D0D0D"/><stop offset="0.65" stop-color="#161616"/><stop offset="1" stop-color="#0D0D0D"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#05F2F2" stop-opacity="0.13"/>
+      <stop offset="1" stop-color="#05F2F2" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .mono { font-family: 'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace; }
+      .cmd { font-size: 15px; fill: #F5F5F5; }
+      .dollar { font-size: 15px; fill: #05F2F2; }
+      .name { font-size: 42px; font-weight: 700; letter-spacing: 0.5px; fill: #F5F5F5; }
+      .out { font-size: 17px; fill: #A3A3A3; }
+      .chrome { font-size: 12px; fill: #737373; }
+      .chrome-dim { font-size: 11px; fill: #5A5A5A; }
+      .bar { font-size: 11px; fill: #A3A3A3; }
+      .bar-dim { font-size: 10px; letter-spacing: 1.3px; fill: #737373; }
+      .chip { font-size: 11px; font-weight: 700; letter-spacing: 1.2px; fill: #0D0D0D; }
+      .ascii { font-size: 16px; }
+      .rise { animation: rise 0.7s cubic-bezier(0.22,0.61,0.36,1) both; }
+      .r2 { animation-delay: 0.12s; }
+      .r3 { animation-delay: 0.24s; }
+      .r4 { animation-delay: 0.36s; }
+      .blink { animation: blink 1.15s steps(1) infinite; }
+      @keyframes rise { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+      @keyframes blink { 0%, 45% { opacity: 1; } 50%, 100% { opacity: 0; } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#panel)"/>
+  <ellipse cx="990" cy="160" rx="300" ry="200" fill="url(#glow)"/>
+  <rect x="0" y="0" width="1200" height="2" fill="url(#accent)" opacity="0.7"/>
+
+  <g class="mono">
+    <circle cx="38" cy="27" r="5" fill="#05F2F2"/>
+    <circle cx="56" cy="27" r="5" fill="#04BFBF"/>
+    <circle cx="74" cy="27" r="5" fill="#252526"/>
+    <text class="chrome" x="600" y="32" text-anchor="middle">d1masg0d@eindhoven: ~/profile</text>
+    <text class="chrome-dim" x="1164" y="32" text-anchor="end">zsh · 120×32</text>
+  </g>
+
+  <line x1="0" y1="54" x2="1200" y2="54" stroke="#252526"/>
+  <line x1="0" y1="55" x2="1200" y2="55" stroke="#05F2F2" stroke-opacity="0.07"/>
+
+  <g class="mono rise">
+    <text class="dollar" x="48" y="102">$</text>
+    <text class="cmd" x="66" y="102">whoami</text>
+  </g>
+
+  <g class="mono rise r2">
+    <text class="name" x="46" y="150">Diogo Fernandes</text>
+  </g>
+
+  <g class="mono rise r3">
+    <text class="dollar" x="48" y="196">$</text>
+    <text class="cmd" x="66" y="196">cat focus.txt</text>
+  </g>
+
+  <g class="mono rise r4">
+    <text class="out" x="48" y="228">infrastructure · cloud · cybersecurity</text>
+  </g>
+
+  <g class="mono">
+    <text class="dollar" x="48" y="262">$</text>
+    <rect class="blink" x="64" y="248" width="9" height="17" fill="#05F2F2"/>
+  </g>
+
+  <g class="mono ascii"><text x="884.0" y="96" fill="#05F2F2" fill-opacity="0.85">@</text><text x="893.6" y="96" fill="#05F2F2" fill-opacity="0.85">@</text><text x="903.2" y="96" fill="#05F2F2" fill-opacity="0.55">#</text><text x="912.8" y="96" fill="#05F2F2" fill-opacity="0.55">#</text><text x="922.4" y="96" fill="#05F2F2" fill-opacity="0.55">#</text><text x="932.0" y="96" fill="#05F2F2" fill-opacity="0.55">#</text><text x="941.6" y="96" fill="#05F2F2" fill-opacity="0.55">#</text><text x="951.2" y="96" fill="#05F2F2" fill-opacity="0.55">#</text><text x="999.2" y="96" fill="#05F2F2" fill-opacity="0.55">#</text><text x="1008.8" y="96" fill="#05F2F2" fill-opacity="0.55">#</text><text x="1018.4" y="96" fill="#05F2F2" fill-opacity="0.55">#</text><text x="1028.0" y="96" fill="#05F2F2" fill-opacity="0.55">#</text><text x="1037.6" y="96" fill="#05F2F2" fill-opacity="0.85">@</text><text x="1047.2" y="96" fill="#05F2F2" fill-opacity="0.85">@</text><text x="1056.8" y="96" fill="#05F2F2" fill-opacity="0.55">#</text><text x="1066.4" y="96" fill="#05F2F2" fill-opacity="0.55">#</text><text x="1076.0" y="96" fill="#05F2F2" fill-opacity="0.55">#</text><text x="1085.6" y="96" fill="#05F2F2" fill-opacity="0.55">#</text><text x="884.0" y="119" fill="#05F2F2" fill-opacity="0.55">#</text><text x="893.6" y="119" fill="#05F2F2" fill-opacity="0.55">#</text><text x="960.8" y="119" fill="#05F2F2" fill-opacity="0.55">#</text><text x="970.4" y="119" fill="#05F2F2" fill-opacity="0.55">#</text><text x="999.2" y="119" fill="#05F2F2" fill-opacity="0.55">#</text><text x="1008.8" y="119" fill="#05F2F2" fill-opacity="0.55">#</text><text x="884.0" y="142" fill="#05F2F2" fill-opacity="0.55">#</text><text x="893.6" y="142" fill="#05F2F2" fill-opacity="0.55">#</text><text x="960.8" y="142" fill="#05F2F2" fill-opacity="0.55">#</text><text x="970.4" y="142" fill="#05F2F2" fill-opacity="0.55">#</text><text x="999.2" y="142" fill="#05F2F2" fill-opacity="0.85">@</text><text x="1008.8" y="142" fill="#05F2F2" fill-opacity="0.85">@</text><text x="884.0" y="165" fill="#05F2F2" fill-opacity="0.55">#</text><text x="893.6" y="165" fill="#05F2F2" fill-opacity="0.55">#</text><text x="960.8" y="165" fill="#05F2F2" fill-opacity="0.55">#</text><text x="970.4" y="165" fill="#05F2F2" fill-opacity="0.55">#</text><text x="999.2" y="165" fill="#05F2F2" fill-opacity="0.55">#</text><text x="1008.8" y="165" fill="#05F2F2" fill-opacity="0.55">#</text><text x="1018.4" y="165" fill="#05F2F2" fill-opacity="0.85">@</text><text x="1028.0" y="165" fill="#05F2F2" fill-opacity="0.85">@</text><text x="1037.6" y="165" fill="#05F2F2" fill-opacity="0.55">#</text><text x="1047.2" y="165" fill="#05F2F2" fill-opacity="0.55">#</text><text x="1056.8" y="165" fill="#05F2F2" fill-opacity="0.55">#</text><text x="1066.4" y="165" fill="#05F2F2" fill-opacity="0.55">#</text><text x="884.0" y="188" fill="#05F2F2" fill-opacity="0.85">@</text><text x="893.6" y="188" fill="#05F2F2" fill-opacity="0.85">@</text><text x="960.8" y="188" fill="#05F2F2" fill-opacity="0.85">@</text><text x="970.4" y="188" fill="#05F2F2" fill-opacity="0.85">@</text><text x="999.2" y="188" fill="#05F2F2" fill-opacity="0.55">#</text><text x="1008.8" y="188" fill="#05F2F2" fill-opacity="0.55">#</text><text x="884.0" y="211" fill="#05F2F2" fill-opacity="0.55">#</text><text x="893.6" y="211" fill="#05F2F2" fill-opacity="0.55">#</text><text x="960.8" y="211" fill="#05F2F2" fill-opacity="0.55">#</text><text x="970.4" y="211" fill="#05F2F2" fill-opacity="0.55">#</text><text x="999.2" y="211" fill="#05F2F2" fill-opacity="0.55">#</text><text x="1008.8" y="211" fill="#05F2F2" fill-opacity="0.55">#</text><text x="884.0" y="234" fill="#05F2F2" fill-opacity="0.55">#</text><text x="893.6" y="234" fill="#05F2F2" fill-opacity="0.55">#</text><text x="903.2" y="234" fill="#05F2F2" fill-opacity="0.55">#</text><text x="912.8" y="234" fill="#05F2F2" fill-opacity="0.55">#</text><text x="922.4" y="234" fill="#05F2F2" fill-opacity="0.85">@</text><text x="932.0" y="234" fill="#05F2F2" fill-opacity="0.85">@</text><text x="941.6" y="234" fill="#05F2F2" fill-opacity="0.55">#</text><text x="951.2" y="234" fill="#05F2F2" fill-opacity="0.55">#</text><text x="999.2" y="234" fill="#05F2F2" fill-opacity="0.85">@</text><text x="1008.8" y="234" fill="#05F2F2" fill-opacity="0.85">@</text></g>
+
+  <rect x="0" y="272" width="1200" height="48" fill="#141414"/>
+  <line x1="0" y1="272" x2="1200" y2="272" stroke="#252526"/>
+  <rect x="32" y="284" width="86" height="24" rx="3" fill="#05F2F2"/>
+  <text class="mono chip" x="75" y="300" text-anchor="middle">PROFILE</text>
+  <text class="mono bar" x="134" y="300">~/profile</text>
+  <text class="mono bar" x="214" y="300" fill="#04BFBF">main*</text>
+  <text class="mono bar-dim" x="1168" y="300" text-anchor="end">ICT STUDENT @ FONTYS  ·  EINDHOVEN, NL</text>
+</svg>
