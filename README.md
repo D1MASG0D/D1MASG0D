@@ -13,16 +13,6 @@ I'm an 18-year-old developer based in Eindhoven, and I've been hooked on technol
 - 📍 Eindhoven, The Netherlands
 - 🎓 ICT student @ Fontys
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=d1masg0d&theme=ocean" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=d1masg0d&theme=ocean" alt="d1masg0d highlights" />
-</p>
-
 ## 🤝 Connect With Me
 
 <p align="center">
