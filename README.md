@@ -15,8 +15,6 @@ I'm an 18-year-old developer based in Eindhoven, and I've been hooked on technol
 
 ## 🤝 Connect With Me
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=d1masg0d&theme=ocean" alt="d1masg0d social links" />
-</p>
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/d1masg0d)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/244.d1mas/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-fernandes-519125346/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/d1masg0d)]
