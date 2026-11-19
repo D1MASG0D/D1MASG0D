@@ -2,7 +2,7 @@
   <img src="./banner.svg" width="100%" alt="Diogo Fernandes — Infrastructure, Cloud, Cybersecurity" />
 </p>
 
-## 👨‍💻 About Me
+## About Me
 
 I'm an 18-year-old developer based in Eindhoven, and I've been hooked on technology for six years. Right now I'm going all-in on infrastructure, cloud, and cybersecurity. To make that stick, I'm studying ICT at Fontys University of Applied Sciences.
 
@@ -10,13 +10,13 @@ I'm an 18-year-old developer based in Eindhoven, and I've been hooked on technol
 - 🎓 ICT student @ Fontys
 
 
-## 📊 Contribution Activity
+## Contribution Activity
 
 <p align="center">
   <img src="./contributions.svg" width="100%" alt="GitHub contribution activity for d1masg0d" />
 </p>
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.instagram.com/244.d1mas/">
